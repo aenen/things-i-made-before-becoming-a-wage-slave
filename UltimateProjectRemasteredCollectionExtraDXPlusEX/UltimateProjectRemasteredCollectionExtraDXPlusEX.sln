@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake", "Snake\Snake.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheLegendOfZeldaASCIIAdventure", "TheLegendOfZeldaASCIIAdventure\TheLegendOfZeldaASCIIAdventure.vcxproj", "{5FC04A21-2B04-4291-94B0-68B63E2896ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimalCrossingFortuneCookie", "AnimalCrossingFortuneCookie\AnimalCrossingFortuneCookie.vcxproj", "{DF9E3BE7-86E6-4D83-96C3-798808206814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5FC04A21-2B04-4291-94B0-68B63E2896ED}.Release|x64.Build.0 = Release|x64
 		{5FC04A21-2B04-4291-94B0-68B63E2896ED}.Release|x86.ActiveCfg = Release|Win32
 		{5FC04A21-2B04-4291-94B0-68B63E2896ED}.Release|x86.Build.0 = Release|Win32
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Debug|x64.ActiveCfg = Debug|x64
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Debug|x64.Build.0 = Debug|x64
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Debug|x86.Build.0 = Debug|Win32
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Release|x64.ActiveCfg = Release|x64
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Release|x64.Build.0 = Release|x64
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Release|x86.ActiveCfg = Release|Win32
+		{DF9E3BE7-86E6-4D83-96C3-798808206814}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
